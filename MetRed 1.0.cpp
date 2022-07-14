@@ -2,7 +2,6 @@
 #include "conio.h"
 #include "stdlib.h"
 #include "windows.h"
-#include "stdlib.h"
 #include "list"
 using namespace std;
 
